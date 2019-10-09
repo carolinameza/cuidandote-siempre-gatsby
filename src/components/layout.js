@@ -41,11 +41,11 @@ const Layout = ({ children, location }) => {
           <Helmet
             title={data.site.siteMetadata.title}
             meta={[
-              { name: 'description', content: 'Sample' },
-              { name: 'keywords', content: 'sample, something' },
+              { name: 'description', content: 'Cuidados de enfermos y del adulto mayor a domicilio' },
+              { name: 'keywords', content: 'cuidandotesiempre, cuidandote siempre, cuidándote siempre, cuidados, adulto mayor, curaciones, enfermería' },
             ]}
           >
-            <html lang="en" />
+            <html lang="es" />
           </Helmet>
           {content}
         </>
