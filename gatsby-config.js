@@ -18,8 +18,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-default`,
-        short_name: `starter`,
+        name: `cuidándote siempre`,
+        short_name: `cuidándote`,
         start_url: `/`,
         background_color: `#663399`,
         theme_color: `#663399`,
