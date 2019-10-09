@@ -67,7 +67,7 @@ class Main extends React.Component {
             <img src={pic02} alt="" />
           </span>
           <p>
-            Cuidados de enfermeria en domicilio 24/7.
+            Cuidados de enfermería en domicilio 24/7.
             <ul>
               <li>Adulto mayor</li>
               <li>Post operados</li>
@@ -94,8 +94,16 @@ class Main extends React.Component {
             <img src={pic03} alt="" />
           </span>
           <p>
-            Cuidado de abuelitos $35.000 por 8 horas.<br/>
-            Precio por hora: $5.000.
+            Cuidado de abuelitos $27.000 por turno de 12 horas.<br/>
+            <br/>
+
+            Consultar valores por
+            <ul>
+              <li>Intervenciones de enfermería</li>
+              <li>Sondaje</li>
+              <li>Curaciones avanzadas</li>
+              <li>Tratamiento inyectable bajo indicación médica</li>
+            </ul>
             <br/><br/>
             <p style={{fontSize: '0.6rem', letterSpacing: '0.2rem', opacity: '0.75'}}>
               Valores sujetos a cambios</p>
@@ -112,8 +120,10 @@ class Main extends React.Component {
         >
           <h2 className="major">Contáctame</h2>
           <p>
-            Celular : <a href="tel:+56950453157">9-504-531-57</a> 
-            <br/>Preguntar por srta. Carolina.
+            Consulta por tu presupuesto, descuento por cuidado permanente.
+            <br/>Celular : <a href="tel:+56950453157">9-504-531-57</a> 
+            <br/>Carolina Meza
+            <br/>Egresada de enfermería.
           </p>
           {/* <form method="post" action="#">
             <div className="field half first">

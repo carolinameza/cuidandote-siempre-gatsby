@@ -8,6 +8,6 @@ ghpages.publish(
     repo: 'https://github.com/carolinameza/carolinameza.github.io.git',
   },
   () => {
-    console.log('Deploy Complete!')
+    console.log('Deploy Complete!!')
   }
 )
